@@ -12,6 +12,7 @@ namespace Tyuiu.GrigorevKU.Sprint0.Task7.V0
     {
         static void Main(string[] args)
         {
+            Console.Title = "Спринт #0| Выполнил: Григорьев К. Ю. | ИИПб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #0                                                               *");
             Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
